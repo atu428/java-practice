@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class 図書館貸出管理完成品 {
+public classLibraryLendingApp.java  {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
