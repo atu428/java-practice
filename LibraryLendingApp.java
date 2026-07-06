@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class　LibraryLendingApp  {
+public class LibraryLendingApp  {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
