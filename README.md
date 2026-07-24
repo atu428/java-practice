@@ -1,2 +1,2 @@
 # java-practice
-こんにちわ
+こんにちは
